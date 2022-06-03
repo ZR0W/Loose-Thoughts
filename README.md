@@ -22,14 +22,18 @@ GQ as well
 - https://www.youtube.com/watch?v=4gibcRfp4zA
 
 ### Learning Math post-undergrad
+
 Game Theory
 - https://www.quora.com/What-is-the-best-way-to-learn-game-theory
 - https://ncase.me/trust/
 - https://oyc.yale.edu/economics/econ-159
+
 perhaps some Economics is also reauired
 - https://www.amazon.com/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401
+
 maybe statistics? Probability along with it
 - A first course in probability by Sheldon M. Ross
 - Mathematical statistics with applications by William Mendenhall
+
 Topology
 - Introduction to Topology by Gamelin & Greene
