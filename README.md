@@ -37,3 +37,15 @@ maybe statistics? Probability along with it
 
 Topology
 - Introduction to Topology by Gamelin & Greene
+
+### Computer, Data, and Social Studies
+
+- Hinge has some fun stuff they're working on
+-- https://hinge.co/labs/
+
+- Michal Kosinski
+-- some resercher at Stanford
+-- https://www.michalkosinski.com/
+
+- Anil Seth
+-- computational neuroscience recomendation by Fede
