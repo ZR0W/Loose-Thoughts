@@ -49,3 +49,10 @@ Topology
 
 - Anil Seth
 -- computational neuroscience recomendation by Fede
+
+### My obsession with simulated systems
+
+- Ecosystem Simulation
+  - https://www.youtube.com/watch?v=52ZeHGGEf6o
+  - https://www.youtube.com/watch?v=r_It_X7v-1E
+  - https://www.youtube.com/watch?v=0ZGbIKd0XrM
