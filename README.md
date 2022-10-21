@@ -56,3 +56,6 @@ Topology
   - https://www.youtube.com/watch?v=52ZeHGGEf6o
   - https://www.youtube.com/watch?v=r_It_X7v-1E
   - https://www.youtube.com/watch?v=0ZGbIKd0XrM
+- Unclear connection
+  - [growing surfaces](https://web.mit.edu/8.334/www/grades/projects/projects17/OscarMickelin/index.html)\
+  - [Ant and sime simulation](https://www.youtube.com/watch?v=X-iSQQgOd1A)
