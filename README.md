@@ -59,3 +59,9 @@ Topology
 - Unclear connection
   - [growing surfaces](https://web.mit.edu/8.334/www/grades/projects/projects17/OscarMickelin/index.html)\
   - [Ant and sime simulation](https://www.youtube.com/watch?v=X-iSQQgOd1A)
+
+### Art and Algorithms
+
+- Art generation
+  - [hill climbing algorithm and art generation](https://github.com/aidenbenner/hillclimbing-painting)
+  - [See first project in video](https://www.youtube.com/watch?v=LrEvoKI07Ww)
