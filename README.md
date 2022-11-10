@@ -60,6 +60,7 @@ Topology
   - [growing surfaces](https://web.mit.edu/8.334/www/grades/projects/projects17/OscarMickelin/index.html)\
   - [Ant and sime simulation](https://www.youtube.com/watch?v=X-iSQQgOd1A)
   - [Brownian Motion](https://scipy-cookbook.readthedocs.io/items/BrownianMotion.html)
+  - [Random Surface Growth](https://web.mit.edu/8.334/www/grades/projects/projects17/OscarMickelin/index.html)
 
 ### Art and Algorithms
 
